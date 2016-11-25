@@ -1,0 +1,10 @@
+filetype off
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
+Bundle "gmarik/vundle"
+Bundle "scrooloose/nerdtree"
+Bundle "klen/python-mode"
+Bundle "honza/vim-snippets"
+Bundle 'MarcWeber/vim-addon-mw-utils'
+Bundle "tomtom/tlib_vim"
+Bundle "garbas/vim-snipmate"
